@@ -11,6 +11,9 @@
 </a>
 
 <br><br>
+---
+<p align="right">Me after learning Github🤘🏻.</p>
+<img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" alt="alt text" width="" height="" align="right">
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology. </br>
@@ -38,6 +41,3 @@
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" alt="Github">
 </p>
 
-Me after learning Github.<br><br>
-<img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" alt="alt text" width="" height="">
-<br>
