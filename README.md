@@ -1,4 +1,4 @@
-### Hi there, I'm Nirban 👨‍💻<img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="48">
+### <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="48">Hi there, I'm Nirban 👨‍💻
 
 <a href="https://www.linkedin.com/in/nirban-roy-62a08b183/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
