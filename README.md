@@ -27,7 +27,7 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirban-roy-62a08b183/)
 - 😄 Pronouns: He,Him,His
-- ⚡ Interesting fact: We can be whatever we want to be,but we become what we choose to be.
+- ⚡ Interesting fact: 0.1+0.2 = 0.30000000000000004.
 <br>
 
 ### Languages and Tools:
