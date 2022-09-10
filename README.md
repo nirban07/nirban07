@@ -41,3 +41,4 @@
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" alt="Github">
 </p>
 
+[![Nirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirban07&show_icons=true&theme=radical)](https://github.com/nirban07/github-readme-stats)
