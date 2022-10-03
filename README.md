@@ -1,14 +1,12 @@
-### <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="48">Hi there, I'm Nirban 👨‍💻
+### Hi there, I'm Nirban 👨‍💻 <a href="https://www.linkedin.com/in/nirban-roy-62a08b183/"><img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a>  <a href="https://twitter.com/NirbanRoy19"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>  <a href="mailto:nirban012@gmail.com"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
-<a href="https://www.linkedin.com/in/nirban-roy-62a08b183/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/NirbanRoy19">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:nirban012@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  
+    
+  
+
+
+
+[![@nirban777's Holopin board](https://holopin.io/api/user/board?user=nirban777)](https://holopin.io/@nirban777)
 
 <br><br>
 ---
